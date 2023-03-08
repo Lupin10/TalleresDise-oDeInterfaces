@@ -1,0 +1,27 @@
+.col-md-3{
+    border: solid black;
+    background-color: rgb(204, 253, 234);
+    
+}
+.col-md-9{
+    border: solid black;
+}
+
+#imperfil{
+    margin-top: 20px;
+    margin-left: 35%;
+    height: 400px;
+    width: auto;
+    border: solid black;
+}
+.textCol3{
+    margin-left: 15%;  
+}
+h3{
+    font-size: 30px;
+}
+hr{
+    border: solid;
+    background-color:black;
+    height: 10px;
+}
