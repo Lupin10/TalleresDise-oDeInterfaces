@@ -17,6 +17,12 @@
 .textCol3{
     margin-left: 15%;  
 }
+.contenedor-iconos{
+    margin-top: 20px;
+    margin-right: 50px;
+    font-size: 21px;
+
+}
 h3{
     font-size: 30px;
 }
@@ -24,4 +30,7 @@ hr{
     border: solid;
     background-color:black;
     height: 10px;
+}
+label{
+    font-size: 20px;
 }
