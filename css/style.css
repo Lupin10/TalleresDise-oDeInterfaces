@@ -14,6 +14,9 @@
     width: auto;
     border: solid black;
 }
+#nombre{
+    margin-top: 20px;
+}
 .textCol3{
     margin-left: 15%;  
 }
@@ -23,6 +26,9 @@
     font-size: 21px;
 
 }
+h2{
+    margin-top: 50px;
+}
 h3{
     font-size: 30px;
 }
@@ -30,6 +36,14 @@ hr{
     border: solid;
     background-color:black;
     height: 10px;
+}
+p{
+    font-size: 20px;
+}
+.divicion{
+    border: solid;
+    background-color:black;
+    height: 3px;
 }
 label{
     font-size: 20px;
