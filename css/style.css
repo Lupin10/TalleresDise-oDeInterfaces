@@ -1,9 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
 .col-md-3{
+    height: 100vh;
     border: solid black;
     background-color: rgb(204, 253, 234);
-    
 }
 .col-md-9{
+    height: 100vh;
     border: solid black;
 }
 
@@ -24,7 +29,6 @@
     margin-top: 20px;
     margin-right: 50px;
     font-size: 21px;
-
 }
 h2{
     margin-top: 50px;
